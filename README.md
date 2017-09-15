@@ -3,7 +3,7 @@ ics4u git practice
 
 ## Steps to Contribute
 
-### **SIGN UP FOR GITHUB ACCOUNT!**
+### **MAKE A GITHUB ACCOUNT!**
 ### *Mac Users*
 
 1. ⌘ + Space
@@ -15,13 +15,28 @@ ics4u git practice
 7. Go to your own profile, where you now have a copy of the ics4u repo
 8. Press the green clone button on **YOUR** copy of the repo and copy the link
 9. Go to your terminal and navigate to the folder where you want to download the repo using `cd <DIRECTORY_PATH>`
+10. `git clone <url>`
+
+## *Windows Users*
+
+1. Download [git](https://git-scm.com/download/win)
+2. Follow steps 5 through 10 from the Mac instructions above
 
 ## Contributors List
 
-* Karim Hurani
-    * Poor little arab boy
-* Justin Zhang
-    * Chinese rice farmer
-    
-  
-  
+| Name | Grade | Fav Subject |
+|------|-------|-------------|
+|  Karim Hurani    |    12   |     ICS amirite        |
+|      |       |             |
+|      |       |             |
+|      |       |             |
+|      |       |             |
+|      |       |             |
+|      |       |             |
+|      |       |             |
+|      |       |             |
+|      |       |             |
+|      |       |             |
+|      |       |             |
+|      |       |             |
+|      |       |             |
